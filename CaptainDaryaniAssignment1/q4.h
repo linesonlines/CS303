@@ -1,0 +1,1 @@
+void removeValue(int *oldValues[], int *values[], int index, int numEl);

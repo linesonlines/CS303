@@ -1,0 +1,1 @@
+void addValue(int *oldValues[], int *values[], int newValue, int numEl);
